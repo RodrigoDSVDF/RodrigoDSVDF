@@ -1,6 +1,6 @@
 ### Rodrigo Silva - [Data Scientist] 👋
 
-## I am an electrical engineer turned data scientist who loves leveraging data-driven solutions that make an impact on business and society!
+## I am a systems analyst who is developing in data science and loves to leverage data-based solutions that impact business and society!
 
 - 💻 I’m currently working as a Data Science 
 - 💻 I'm also working for a company specialized on Artificial Intelligence (AI) and High Technology
